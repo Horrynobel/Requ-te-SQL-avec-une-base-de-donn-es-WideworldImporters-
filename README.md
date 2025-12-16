@@ -1,2 +1,7 @@
-# Requ-te-SQL-avec-une-base-de-donn-es-WideworldImporters-
-Mise en situation sur certaines requêtes SQL
+# Requete SQL avec une base de donnée-WideworldImporters
+# Mise en situation sur certaines requêtes SQL
+
+
+
+
+
